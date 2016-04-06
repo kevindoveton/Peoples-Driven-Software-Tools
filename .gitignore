@@ -1,0 +1,6 @@
+// Python compiled
+*.pyc
+
+// Ignored
+ignored/
+*.DS_Store*

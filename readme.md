@@ -1,4 +1,6 @@
 # People Driven Software Tools
+## 0. Config.py
+Edit this first!
 
 ## 1. MDBConvert.sh
 Use this to convert your pds 'connectdata.mdb' file to a sql file
