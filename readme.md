@@ -1,4 +1,6 @@
 # People Driven Software Tools
+A selection of small scripts to help make the transition from PDS to Elvanto a little bit easier.
+
 ## 0. Config.py
 Edit this first!
 
