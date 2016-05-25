@@ -17,3 +17,9 @@ Re-encode your sql file with utf8 encoding in sublime text or similar..
 
 ## 5. createGroups.py
 Grabs groups from tblMinistries in sql and add to api
+
+
+
+Kevin Doveton
+
+http://www.kdoveton.com
